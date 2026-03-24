@@ -35,9 +35,13 @@ https://fraudguard-ai-anomaly-detection.streamlit.app/
 * **Live Transaction Tester:** Interactive sliders to inject custom anomalies.
 
 ## ⚙️ Installation & Usage
+
 git clone https://github.com/your-username/FraudGuard-AI-Anomaly-Detection.git
+
 cd FraudGuard-AI-Anomaly-Detection
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ## 👨‍💻 Author
