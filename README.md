@@ -6,6 +6,21 @@
 ## 🚀 Project Overview
 FraudGuard AI is a high-performance predictive model built to detect fraudulent credit card transactions in real-time. Designed with cybersecurity in mind, it utilizes the powerful XGBoost algorithm to handle highly imbalanced financial datasets.
 
+## Live App Link:
+
+https://fraudguard-ai-anomaly-detection.streamlit.app/
+
+## Screenshots
+
+## Main Dashboard
+<img width="1919" height="1079" alt="Screenshot 2026-03-24 121410" src="https://github.com/user-attachments/assets/b29e76f8-917f-4ff2-b098-034e01668013" />
+
+## Safe Transaction
+<img width="1914" height="920" alt="Screenshot 2026-03-24 121542" src="https://github.com/user-attachments/assets/cb083633-b4f5-4200-9e2f-5c570f24cec6" />
+
+## Fraud Transaction
+<img width="1917" height="922" alt="Screenshot 2026-03-24 121704" src="https://github.com/user-attachments/assets/9de3d8e1-aa3b-40fa-86d3-d2d4d28c476f" />
+
 *Developed as part of the AI & ML Internship at Elevate Labs.*
 
 ## 🧠 System Architecture & Methodology
